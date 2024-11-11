@@ -1,0 +1,6 @@
+git commands
+git config --list this command config all lists 
+git status to represent all status
+git add file name it add present file
+git add . configure all files 
+git push origin main
